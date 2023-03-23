@@ -3,6 +3,7 @@ This is a python template for making experiment with `remio` library. It gives t
 
 ### 🎨 GUI
 The project includes a simple GUI made with `PyQt5`. It looks as follows:
+
 <img src="./docs/gui.png" style="margin: 1rem 0;">
 
 You could edit it according to your needs. I recommed to you use `QtDesigner` program which simplifies the GUI creation proccess. 
